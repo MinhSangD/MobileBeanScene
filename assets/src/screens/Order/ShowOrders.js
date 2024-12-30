@@ -15,7 +15,7 @@ import { widthPercentageToDP } from 'react-native-responsive-screen';
 export default function ShowOrders({props,navigation}) {
     const [OrderData,setOrderData]=useState([])
     const isFocused = useIsFocused()
-    
+    const [status,setStatus]=useState("")
     const [editableStatusOrderId, setEditableStatusOrderId] = useState(null)
     const [updatedStatusValue,setUpdatedStatusValue] = useState('')
     const getOrders = async()=>{
@@ -77,6 +77,7 @@ export default function ShowOrders({props,navigation}) {
                       return (
                         <View style={{justifyContent:'space-between',flexDirection:'row',borderBottomColor:'#083944',borderLeftColor:'rgba(0, 0, 0, 0)',borderTopColor:'rgba(0, 0, 0, 0)',borderRightColor:'rgba(0, 0, 0, 0)',borderWidth:3,marginBottom:3}}>
                             <Text style = {MainStyle.labelSmallItem}>{item.orderNo}</Text>
+                            
                             <Text style = {[MainStyle.labelSmallItem,MainStyle.width30]}>{item.dateTime}</Text>
                             {
                               isEditable?(
