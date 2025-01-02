@@ -61,15 +61,12 @@ export default function Orders({props,navigation,route}){
         <ScrollView contentContainerStyle={MainStyle.container}>
             <View style={MainStyle.container}>
                 <Header></Header>
-                <View style={MainStyle.pageTitleContainer}>
-                    <Text style={MainStyle.titleText}>Products List</Text>
-                    <TouchableOpacity style={MainStyle.whiteButton} onPress={()=>navigation.navigate('Checkout',{orderDetails})}>
-                         <Text style={MainStyle}>Checkout</Text>
-                    </TouchableOpacity>
+                <View style={[MainStyle.pageTitleContainer,{justifyContent:"flex-end"}]}>
+                  <TouchableOpacity style={[MainStyle.blueButton,{backgroundColor:"white",borderRadius:23}]} onPress={()=>navigation.navigate('Checkout',{orderDetails})} > 
+                    <Text style={[MainStyle.titleText,{padding:10}]}>Checkout</Text>
+                  </TouchableOpacity>
                 </View>
                 <StatusBar style="auto" />
-           
-
               <View>
                 {
                   productData.map((singleProduct)=>{
