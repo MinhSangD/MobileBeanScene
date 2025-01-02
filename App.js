@@ -35,10 +35,10 @@ const BottomTabs=createBottomTabNavigator();
 export default function App() {
   return (
       <NavigationContainer>
-        <Stack.Navigator screenOptions={screenOptionstyle}>
-        <Stack.Screen name="Login" component={Login} options={{headerShown:false}}></Stack.Screen>
-          <Stack.Screen name="ManagerDashBoard" component={ManagerDashBoard} options={{headerShown:false}}></Stack.Screen>
-          <Stack.Screen name="StaffDashBoard" component={StaffDashBoard} options={{headerShown:false}}></Stack.Screen>
+        <Stack.Navigator screenOptions={{ headerShown: false }}>
+        <Stack.Screen name = "Login"component={Login} ></Stack.Screen>
+          <Stack.Screen name="ManagerDashBoard" component={ManagerDashBoard} ></Stack.Screen>
+          <Stack.Screen name="StaffDashBoard" component={StaffDashBoard} ></Stack.Screen>
           <Stack.Screen name="Checkout" component={Checkout}></Stack.Screen>
         </Stack.Navigator>
       </NavigationContainer>
@@ -48,35 +48,35 @@ export default function App() {
 
 function categoryScreens(){
   return(
-    <Stack.Navigator screenOptions={screenOptionstyle}>
-      <Stack.Screen name="CategoryList" component={CategoryList} options={{headerShown:false}}></Stack.Screen>
-      <Stack.Screen name="AddCategory" component={AddCategory} options={{headerShown:false}}></Stack.Screen>
-      <Stack.Screen name="UpdateCategory" component={UpdateCategory} options={{headerShown:false}}></Stack.Screen>
+    <Stack.Navigator screenOptions={{ headerShown: false }}>
+      <Stack.Screen name="CategoryList" component={CategoryList}></Stack.Screen>
+      <Stack.Screen name="AddCategory" component={AddCategory} ></Stack.Screen>
+      <Stack.Screen name="UpdateCategory" component={UpdateCategory} ></Stack.Screen>
       
     </Stack.Navigator>
   )
 }function menuScreens(){
   return(
-    <Stack.Navigator screenOptions={screenOptionstyle}>
-      <Stack.Screen name="MenuList" component={MenuList} options={{headerShown:false}}></Stack.Screen>
-      <Stack.Screen name="AddMenu" component={AddMenu} options={{headerShown:false}}></Stack.Screen>
-      <Stack.Screen name="UpdateMenu" component={UpdateMenu} options={{headerShown:false}}></Stack.Screen>
+    <Stack.Navigator screenOptions={{ headerShown: false }}>
+      <Stack.Screen name="MenuList" component={MenuList} ></Stack.Screen>
+      <Stack.Screen name="AddMenu" component={AddMenu} ></Stack.Screen>
+      <Stack.Screen name="UpdateMenu" component={UpdateMenu} ></Stack.Screen>
       
     </Stack.Navigator>
   )
 }function staffScreens(){
   return(
-    <Stack.Navigator screenOptions={screenOptionstyle}>
-      <Stack.Screen name="StaffList" component={StaffList} options={{headerShown:false}}></Stack.Screen>
-      <Stack.Screen name="AddStaff" component={AddStaff} options={{headerShown:false}}></Stack.Screen>
-      <Stack.Screen name="UpdateStaff" component={UpdateStaff} options={{headerShown:false}}></Stack.Screen>
+    <Stack.Navigator screenOptions={{ headerShown: false }}>
+      <Stack.Screen name="StaffList" component={StaffList} ></Stack.Screen>
+      <Stack.Screen name="AddStaff" component={AddStaff} ></Stack.Screen>
+      <Stack.Screen name="UpdateStaff" component={UpdateStaff} ></Stack.Screen>
       
     </Stack.Navigator>
   )
 }
 function ManagerDashBoard(){
   return(
-    <BottomTabs.Navigator screenOptions={{ tabBarActiveBackgroundColor: "#083944" }}>
+    <BottomTabs.Navigator screenOptions={{ headerShown: false, tabBarActiveBackgroundColor: "#083944" }}>
     <BottomTabs.Screen name="Menu" component={menuScreens} options={{
         tabBarIcon: ({ focused }) => (
           <FontAwesome name="cutlery" color={focused ? "#EBC136" : "#083944"} size={24} />
@@ -137,7 +137,7 @@ const screenOptionstyle={
 }
 function StaffDashBoard(){
   return(
-    <BottomTabs.Navigator screenOptions={screenOptionstyle} >
+    <BottomTabs.Navigator screenOptions={{ headerShown: false ,tabBarActiveBackgroundColor: "#083944" }} >
       <BottomTabs.Screen name="OrderList" component={OrderList}></BottomTabs.Screen>
       <BottomTabs.Screen name="Search" component={Search}></BottomTabs.Screen>
       <BottomTabs.Screen name="ShowOrders" component={ShowOrders}></BottomTabs.Screen>

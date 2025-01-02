@@ -94,8 +94,8 @@ const deleteConfirmed=async()=>{
             <View style={MainStyle.container}>
                 <Header></Header>
                 <View style={MainStyle.pageTitleContainer}>
-                     <TouchableOpacity style={MainStyle.blueButton} onPress={()=>navigation.navigate('AddCategory')} > 
-                        <Text style={MainStyle.titleText}>Add category</Text>
+                     <TouchableOpacity style={[MainStyle.blueButton,{backgroundColor:"white",borderRadius:23}]} onPress={()=>navigation.navigate('AddCategory')} > 
+                        <Text style={[MainStyle.titleText]}>Add category</Text>
                         <Ionicons name={'add-circle'} size={35} color='#083944'/>
                     </TouchableOpacity>
                 </View>

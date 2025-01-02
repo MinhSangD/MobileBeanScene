@@ -93,10 +93,10 @@ const deleteConfirmed=async()=>{
         <ScrollView contentContainerStyle={MainStyle.container}>
             <View style={MainStyle.container}>
                 <Header></Header>
-                <View style={MainStyle.pageTitleContainer}>
-                     <TouchableOpacity style={MainStyle.blueButton} onPress={()=>navigation.navigate('AddMenu')} > 
-                        <Text style={MainStyle.titleText}>Add item</Text>
-                        <Ionicons name={'add-circle'} size={35} color='#083944'/>
+                <View style={[MainStyle.pageTitleContainer,{justifyContent:"flex-end"}]}>
+                     <TouchableOpacity style={[MainStyle.blueButton,{backgroundColor:"white",borderRadius:23}]} onPress={()=>navigation.navigate('AddMenu')} > 
+                        <Text style={[MainStyle.titleText,{padding:10}]}>Add item</Text>
+                        
                     </TouchableOpacity>
                 </View>
 
