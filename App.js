@@ -138,9 +138,21 @@ const screenOptionstyle={
 function StaffDashBoard(){
   return(
     <BottomTabs.Navigator screenOptions={{ headerShown: false ,tabBarActiveBackgroundColor: "#083944" }} >
-      <BottomTabs.Screen name="OrderList" component={OrderList}></BottomTabs.Screen>
-      <BottomTabs.Screen name="Search" component={Search}></BottomTabs.Screen>
-      <BottomTabs.Screen name="ShowOrders" component={ShowOrders}></BottomTabs.Screen>
+      <BottomTabs.Screen name="OrderList" component={OrderList} options={{
+        tabBarIcon: ({focused}) => (
+          <Entypo name ="ticket" color={focused ? "#EBC136" : "#083944"} size={24} />
+        ),
+      }}></BottomTabs.Screen>
+      <BottomTabs.Screen name="Search" component={Search} options={{
+        tabBarIcon: ({focused}) => (
+          <Icon name ="search1" color={focused ? "#EBC136" : "#083944"} size={24} />
+        ),
+      }}></BottomTabs.Screen>
+      <BottomTabs.Screen name="ShowOrders" component={ShowOrders} options={{
+        tabBarIcon: ({focused}) => (
+          <MaterialCommunityIcons name ="list-status" color={focused ? "#EBC136" : "#083944"} size={24} />
+        ),
+      }}></BottomTabs.Screen>
     </BottomTabs.Navigator>
   )
 }
