@@ -48,9 +48,11 @@ const submit=async()=>{
 
                 if(data.role.toLowerCase()=="manager"){
                     console.log('manager')
+                    setUserName("")
                     navigation.navigate("ManagerDashBoard");
                 }
                 else if(data.role.toLowerCase()=="staff"){
+                    setPassword("")
                     navigation.navigate("StaffDashBoard");
                 }
             }

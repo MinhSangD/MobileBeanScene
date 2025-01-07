@@ -1,5 +1,5 @@
 import { StatusBar } from 'expo-status-bar';
-import { Text, View ,SafeAreaView,ScrollView, TextInput,TouchableOpacity} from 'react-native';
+import { Text, View ,SafeAreaView,ScrollView, Dimensions ,TouchableOpacity} from 'react-native';
 import React,{useEffect,useState} from 'react';
 
 import {Ionicons, AntDesign} from '@expo/vector-icons';
@@ -19,7 +19,7 @@ export default function Orders({props,navigation,route}){
   const isFocused=useIsFocused();
 
     const getProducts=async()=>{
-
+      
         console.log("getProducts method is called");
         var url="https://localhost:7061/Menu";
         var header=new Headers({});
