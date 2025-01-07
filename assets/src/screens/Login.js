@@ -48,12 +48,16 @@ const submit=async()=>{
 
                 if(data.role.toLowerCase()=="manager"){
                     console.log('manager')
-                    setUserName("")
+                   
                     navigation.navigate("ManagerDashBoard");
+                    setUserName('')
+                    setPassword('')
                 }
                 else if(data.role.toLowerCase()=="staff"){
                     setPassword("")
                     navigation.navigate("StaffDashBoard");
+                    setUserName('')
+                    setPassword('')
                 }
             }
             else{
@@ -88,8 +92,8 @@ useEffect(() => {
                 </View>
                 <View style={MainStyle.formContainer}>
                    
-                    <TextInput placeholder='Username' style={MainStyle.textInput} onChangeText={(username)=>setUserName(username)}></TextInput>
-                    <TextInput placeholder='Password' style={MainStyle.textInput} secureTextEntry={true} onChangeText={(password)=>setPassword(password)}></TextInput>
+                    <TextInput placeholder='Username' style={MainStyle.textInput} value ={username} onChangeText={(username)=>setUserName(username)}></TextInput>
+                    <TextInput placeholder='Password' style={MainStyle.textInput} value = {password}secureTextEntry={true} onChangeText={(password)=>setPassword(password)}></TextInput>
                     
                 </View>
                 <View style={MainStyle.buttonFormContainer}>
