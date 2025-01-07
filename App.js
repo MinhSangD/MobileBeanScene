@@ -28,6 +28,7 @@ import Report from './assets/src/screens/Report';
 import Checkout from './assets/src/screens/Order/Checkout'
 import Search from './assets/src/screens/Search'
 import ShowOrders from './assets/src/screens/Order/ShowOrders';
+import RenderProduct from './assets/src/Components/RenderProduct';
 const Stack=createStackNavigator();
 
 const BottomTabs=createBottomTabNavigator();
@@ -64,13 +65,22 @@ function categoryScreens(){
       
     </Stack.Navigator>
   )
-}function staffScreens(){
+}
+function orderListScreens(){
   return(
     <Stack.Navigator screenOptions={{ headerShown: false }}>
-      <Stack.Screen name="StaffList" component={StaffList} ></Stack.Screen>
-      <Stack.Screen name="AddStaff" component={AddStaff} ></Stack.Screen>
-      <Stack.Screen name="UpdateStaff" component={UpdateStaff} ></Stack.Screen>
+      <Stack.Screen name="MenuList" component={MenuList} ></Stack.Screen>
+      <Stack.Screen name="AddMenu" component={AddMenu} ></Stack.Screen>
+      <Stack.Screen name="UpdateMenu" component={UpdateMenu} ></Stack.Screen>
       
+    </Stack.Navigator>
+  )
+}
+function staffScreens(){
+  return(
+    <Stack.Navigator screenOptions={{ headerShown: false }}>
+      <Stack.Screen name="OrderList" component={OrderList} ></Stack.Screen>
+      <Stack.Screen name="RenderProduct" component={RenderProduct} ></Stack.Screen>
     </Stack.Navigator>
   )
 }
@@ -106,7 +116,7 @@ function ManagerDashBoard(){
         ),
       }}
     />
-      <BottomTabs.Screen name="OrderList" component={OrderList}options={{
+      <BottomTabs.Screen name="OrderList" component={orderListScreens}options={{
         tabBarIcon: ({focused}) => (
           <Entypo name ="ticket" color={focused ? "#EBC136" : "#083944"} size={24} />
         ),

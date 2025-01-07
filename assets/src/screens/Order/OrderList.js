@@ -69,33 +69,6 @@ export default function Orders({props,navigation,route}){
     }
   };
 
-    const getProducts=async()=>{
-      
-        console.log("getProducts method is called");
-        var url="https://localhost:7061/Menu";
-        var header=new Headers({});
-
-        var options={
-            method:'GET',
-            headers:header
-        }
-
-        try{
-
-            const response= await fetch(url,options);
-            console.log(response);
-
-            const data= await response.json();
-            console.log(data);
-
-            setProductData(data);
-
-        }
-        catch(error){
-            console.log("Error is: "+error.message);
-        }
-        
-    }
 
     useEffect(()=>{
       if(route.params?.orderDetails){
@@ -118,7 +91,9 @@ export default function Orders({props,navigation,route}){
                     console.log(category)
                     return(
                       <View>
-                        <RenderCategory category = {category}/>
+                        <TouchableOpacity onPress={()=>navigation.navigate("RenderProduct", {orderDetails},{category})}>
+                          <RenderCategory category = {category}/>
+                        </TouchableOpacity>
                       </View>
                     )
                   })

@@ -3,11 +3,11 @@ import MainStyle from '../Styles/MainStyle';
 import { StyleSheet, Text, View ,TouchableOpacity} from 'react-native';
 
 import {Entypo} from '@expo/vector-icons';
-import RenderProduct from './RenderProduct';
+
 const RenderCategory=({category,orderDetails,setOrderDetails})=>{
 
 return(
-    <TouchableOpacity>
+    
         <View style={MainStyle.orderListRow}>
             
             <View style={MainStyle.orderListLeftColumn}>
@@ -20,7 +20,7 @@ return(
             </View>
             
         </View>
-    </TouchableOpacity>
+ 
     )
 }
 
