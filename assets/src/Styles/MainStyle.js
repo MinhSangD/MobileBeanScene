@@ -82,10 +82,10 @@ headerContainer:{
     flexDirection:"row"
 },orderListRightColumn:{
     width: wp("25%"),
-    alignItems:'center',
-    justifyContent:'center'
+    
 },orderListLeftColumn:{
-    width: wp("60%")
+    width: wp("95%"),
+    justifyContent:"flex-end"
 },orderListRow:{
     flexDirection:'row',
     backgroundColor:'#f2f2f2',
@@ -153,4 +153,11 @@ cartContainerList:{
     paddingBottom:10,
     width:wp("80%")
 },
+errorText:{
+    color: "red",
+    size: 30,
+},fontBoldBig:{
+    fontWeight:"condensedBold",
+    fontSize: 30
+}
 })

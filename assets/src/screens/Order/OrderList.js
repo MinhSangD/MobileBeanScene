@@ -11,12 +11,63 @@ import Header from '../../Layouts/Header';
 import {useIsFocused} from "@react-navigation/native";
 
 import RenderProduct from '../../Components/RenderProduct';
-
+import RenderCategory from '../../Components/RenderCategory';
 export default function Orders({props,navigation,route}){
   const [productData,setProductData]=useState([]);
+  const [categoryData,setCategoryData]=useState([]);
   const [orderDetails,setOrderDetails]=useState([]);
 
   const isFocused=useIsFocused();
+  const getCategory=async()=>{
+
+    console.log("getProducts method is called");
+    var url="https://localhost:7061/Category";
+    var header=new Headers({});
+
+    var options={
+        method:'GET',
+        headers:header
+    }
+
+    try{
+
+        const response= await fetch(url,options);
+        console.log(response);
+
+        const data= await response.json();
+        console.log(data);
+            
+        setCategoryData(data);
+
+    }
+    catch(error){
+        console.log("Error is: "+error.message);
+    }
+    
+}
+
+  const searchProductbyCat = async (cat) => {
+    console.log("searchProductbyCat method is called");
+    let url = `https://localhost:7061/Category/items`;
+    if (cat) {
+      url += `/${cat}`;
+    }
+
+    var header = new Headers({});
+    var options = {
+      method: 'GET',
+      headers: header
+    };
+
+    try {
+      const response = await fetch(url, options);
+      const data = await response.json();
+      console.log(data);
+      setProductData(data);
+    } catch (error) {
+      console.log("Error is: " + error.message);
+    }
+  };
 
     const getProducts=async()=>{
       
@@ -51,7 +102,7 @@ export default function Orders({props,navigation,route}){
         setOrderDetails(route.params?.orderDetails)
       }
         if(isFocused){
-        getProducts();
+          getCategory();
         }
     },[props,isFocused,route.params?.orderDetails]);
 
@@ -61,7 +112,20 @@ export default function Orders({props,navigation,route}){
         <ScrollView contentContainerStyle={MainStyle.container}>
             <View style={MainStyle.container}>
                 <Header></Header>
-                <View style={[MainStyle.pageTitleContainer,{justifyContent:"flex-end"}]}>
+                <View>
+                  {
+                  categoryData.map((category)=>{
+                    console.log(category)
+                    return(
+                      <View>
+                        <RenderCategory category = {category}/>
+                      </View>
+                    )
+                  })
+                  }
+                </View>
+                
+                {/* <View style={[MainStyle.pageTitleContainer,{justifyContent:"flex-end"}]}>
                   <TouchableOpacity style={[MainStyle.blueButton,{backgroundColor:"white",borderRadius:23}]} onPress={()=>navigation.navigate('Checkout',{orderDetails})} > 
                     <Text style={[MainStyle.titleText,{padding:10}]}>Checkout</Text>
                   </TouchableOpacity>
@@ -78,7 +142,7 @@ export default function Orders({props,navigation,route}){
                     )
                   })
                 }
-              </View>
+              </View> */}
             </View>
         </ScrollView>
     </SafeAreaView>

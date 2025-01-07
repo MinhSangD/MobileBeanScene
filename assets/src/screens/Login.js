@@ -61,7 +61,7 @@ const submit=async()=>{
                 }
             }
             else{
-                setError("Username and password does not exist");
+                setError("Username or password does not exist");
             }
     
         }
@@ -86,8 +86,8 @@ useEffect(() => {
                 <View style={MainStyle.logoContainer}>
                     <Image source={logo}></Image>
 
-                    <Text style={MainStyle.logoTitle}>Bean Scene</Text>
-                    <Text style={MainStyle.logoSubTitle}>Ordering System</Text>
+                
+                    <Text style={MainStyle.logoTitle}>Ordering System</Text>
 
                 </View>
                 <View style={MainStyle.formContainer}>
@@ -102,7 +102,7 @@ useEffect(() => {
                         </TouchableOpacity>
                     
                         <View style={MainStyle.alignCenter}>
-                            <Text style={MainStyle.blackText}>{error}</Text>
+                            <Text style={MainStyle.errorText}>{error}</Text>
                         </View>
                 </View>
                 <StatusBar style="auto" />
