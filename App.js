@@ -28,7 +28,7 @@ import Report from './assets/src/screens/Report';
 import Checkout from './assets/src/screens/Order/Checkout'
 import Search from './assets/src/screens/Search'
 import ShowOrders from './assets/src/screens/Order/ShowOrders';
-import RenderProduct from './assets/src/Components/RenderProduct';
+import ProductOrder from './assets/src/screens/Order/ProductOrder';
 const Stack=createStackNavigator();
 
 const BottomTabs=createBottomTabNavigator();
@@ -69,9 +69,8 @@ function categoryScreens(){
 function orderListScreens(){
   return(
     <Stack.Navigator screenOptions={{ headerShown: false }}>
-      <Stack.Screen name="MenuList" component={MenuList} ></Stack.Screen>
-      <Stack.Screen name="AddMenu" component={AddMenu} ></Stack.Screen>
-      <Stack.Screen name="UpdateMenu" component={UpdateMenu} ></Stack.Screen>
+      <Stack.Screen name="OrderList" component={OrderList} ></Stack.Screen>
+      <Stack.Screen name="ProductOrder" component={ProductOrder} ></Stack.Screen>
       
     </Stack.Navigator>
   )
@@ -79,8 +78,10 @@ function orderListScreens(){
 function staffScreens(){
   return(
     <Stack.Navigator screenOptions={{ headerShown: false }}>
-      <Stack.Screen name="OrderList" component={OrderList} ></Stack.Screen>
-      <Stack.Screen name="RenderProduct" component={RenderProduct} ></Stack.Screen>
+      <Stack.Screen name="StaffList" component={StaffList} ></Stack.Screen>
+      <Stack.Screen name="AddStaff" component={AddStaff} ></Stack.Screen>
+      <Stack.Screen name="UpdateStaff" component={UpdateStaff} ></Stack.Screen>
+      
     </Stack.Navigator>
   )
 }
@@ -148,7 +149,7 @@ const screenOptionstyle={
 function StaffDashBoard(){
   return(
     <BottomTabs.Navigator screenOptions={{ headerShown: false ,tabBarActiveBackgroundColor: "#083944" }} >
-      <BottomTabs.Screen name="OrderList" component={OrderList} options={{
+      <BottomTabs.Screen name="OrderList" component={orderListScreens} options={{
         tabBarIcon: ({focused}) => (
           <Entypo name ="ticket" color={focused ? "#EBC136" : "#083944"} size={24} />
         ),
