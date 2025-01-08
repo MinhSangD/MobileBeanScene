@@ -12,7 +12,7 @@ import {useIsFocused} from "@react-navigation/native";
 
 import RenderProduct from '../../Components/RenderProduct';
 
-export default function Orders({props,navigation,route,category}){
+export default function Orders({props,navigation,route}){
   const [productData,setProductData]=useState([]);
   const [orderDetails,setOrderDetails]=useState([]);
 
@@ -48,7 +48,7 @@ export default function Orders({props,navigation,route,category}){
         setOrderDetails(route.params?.orderDetails)
       }
         if(isFocused){
-            searchProductbyCat(category)
+            searchProductbyCat(route.params?.category)
         }
     },[props,isFocused,route.params?.orderDetails]);
 

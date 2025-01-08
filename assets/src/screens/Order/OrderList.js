@@ -91,7 +91,7 @@ export default function Orders({props,navigation,route}){
                     console.log(category)
                     return(
                       <View>
-                        <TouchableOpacity onPress={()=>navigation.navigate("ProductOrder", {orderDetails},{category})}>
+                        <TouchableOpacity onPress={()=>navigation.navigate("ProductOrder",{ category: category.name })}>
                           <RenderCategory category = {category}/>
                         </TouchableOpacity>
                       </View>
