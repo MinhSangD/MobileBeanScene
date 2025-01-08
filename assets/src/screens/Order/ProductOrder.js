@@ -9,6 +9,7 @@ import MainStyle from '../../Styles/MainStyle';
 import Header from '../../Layouts/Header';
 
 import {useIsFocused} from "@react-navigation/native";
+import CheckOutButton from '../../Components/CheckOutButt';
 
 import RenderProduct from '../../Components/RenderProduct';
 
@@ -77,6 +78,7 @@ export default function Orders({props,navigation,route}){
                 }
               </View>
             </View>
+            <CheckOutButton></CheckOutButton>
         </ScrollView>
     </SafeAreaView>
     

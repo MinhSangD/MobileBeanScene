@@ -1,7 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
 import { Text, View ,SafeAreaView,ScrollView, Dimensions ,TouchableOpacity} from 'react-native';
 import React,{useEffect,useState} from 'react';
-
+import CheckOutButton from '../../Components/CheckOutButt';
 import {Ionicons, AntDesign} from '@expo/vector-icons';
 
 import MainStyle from '../../Styles/MainStyle';
@@ -85,7 +85,8 @@ export default function Orders({props,navigation,route}){
         <ScrollView contentContainerStyle={MainStyle.container}>
             <View style={MainStyle.container}>
                 <Header></Header>
-                <View>
+                
+                <View >
                   {
                   categoryData.map((category)=>{
                     console.log(category)
@@ -98,27 +99,13 @@ export default function Orders({props,navigation,route}){
                     )
                   })
                   }
+                   <CheckOutButton></CheckOutButton>
                 </View>
                 
-                {/* <View style={[MainStyle.pageTitleContainer,{justifyContent:"flex-end"}]}>
-                  <TouchableOpacity style={[MainStyle.blueButton,{backgroundColor:"white",borderRadius:23}]} onPress={()=>navigation.navigate('Checkout',{orderDetails})} > 
-                    <Text style={[MainStyle.titleText,{padding:10}]}>Checkout</Text>
-                  </TouchableOpacity>
-                </View>
-                <StatusBar style="auto" />
-              <View>
-                {
-                  productData.map((singleProduct)=>{
-                    console.log(singleProduct)
-                    return(
-                      <View>
-                        <RenderProduct product={singleProduct} orderDetails={orderDetails} setOrderDetails={setOrderDetails}/>
-                      </View>
-                    )
-                  })
-                }
-              </View> */}
+                
+             
             </View>
+            
         </ScrollView>
     </SafeAreaView>
     
