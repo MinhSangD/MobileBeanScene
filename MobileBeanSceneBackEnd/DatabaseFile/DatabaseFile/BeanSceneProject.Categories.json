@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "6718d1e01d7ccc0a02d2e5e5"
+  },
+  "name": "entrees"
+},
+{
+  "_id": {
+    "$oid": "6718d1ee1d7ccc0a02d2e5e6"
+  },
+  "name": "mains"
+},
+{
+  "_id": {
+    "$oid": "6718d1f61d7ccc0a02d2e5e7"
+  },
+  "name": "desserts"
+},
+{
+  "_id": {
+    "$oid": "6718d1fa1d7ccc0a02d2e5e8"
+  },
+  "name": "drinks"
+},
+{
+  "_id": {
+    "$oid": "6718d2001d7ccc0a02d2e5e9"
+  },
+  "name": "specials"
+},
+{
+  "_id": {
+    "$oid": "6726fbbbff78d9127a47b942"
+  },
+  "name": "something"
+},
+{
+  "_id": {
+    "$oid": "6726fbe6ff78d9127a47b943"
+  },
+  "name": "sssa"
+},
+{
+  "_id": {
+    "$oid": "672734fbff78d9127a47b944"
+  },
+  "name": "new stuff"
+},
+{
+  "_id": {
+    "$oid": "6735f3bda35d9d38f78d6987"
+  },
+  "name": "sides"
+},
+{
+  "_id": {
+    "$oid": "6745cb6e6424c2e3e25151f4"
+  },
+  "name": "entrées"
+}]

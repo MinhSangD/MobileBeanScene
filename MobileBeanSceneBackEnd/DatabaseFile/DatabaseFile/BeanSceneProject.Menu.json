@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "672aeda62e6d8d0babb3eeae"
+  },
+  "name": "good",
+  "description": "ds",
+  "price": "32",
+  "stock": "23",
+  "category": "mains"
+},
+{
+  "_id": {
+    "$oid": "67372585107476c8600e4df6"
+  },
+  "name": "main",
+  "description": "",
+  "price": "444",
+  "stock": "444",
+  "category": "mains"
+},
+{
+  "_id": {
+    "$oid": "67372601107476c8600e4df7"
+  },
+  "name": "sang2",
+  "description": "",
+  "price": "444",
+  "stock": "55",
+  "category": "mains"
+},
+{
+  "_id": {
+    "$oid": "6745c9fe6424c2e3e25151f2"
+  },
+  "name": "sang",
+  "description": "sss",
+  "price": "sss",
+  "stock": "ss",
+  "category": "mains"
+},
+{
+  "_id": {
+    "$oid": "67466c7ec6667c0f645838a0"
+  },
+  "name": "newSang3",
+  "description": "",
+  "price": "",
+  "stock": "",
+  "category": ""
+}]

@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angmi\\OneDrive\\Desktop\\MinhSangDang\\backEndFil\\back\\back\\BeanScene\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E280610C-8594-4A30-B7E7-D2F7302D47A3}|BeanScene\\BeanScene.csproj|c:\\users\\angmi\\onedrive\\desktop\\minhsangdang\\backendfil\\back\\back\\beanscene\\beanscene\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E280610C-8594-4A30-B7E7-D2F7302D47A3}|BeanScene\\BeanScene.csproj|solutionrelative:beanscene\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E280610C-8594-4A30-B7E7-D2F7302D47A3}|BeanScene\\BeanScene.csproj|c:\\users\\angmi\\onedrive\\desktop\\minhsangdang\\backendfil\\back\\back\\beanscene\\beanscene\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E280610C-8594-4A30-B7E7-D2F7302D47A3}|BeanScene\\BeanScene.csproj|solutionrelative:beanscene\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E280610C-8594-4A30-B7E7-D2F7302D47A3}|BeanScene\\BeanScene.csproj|c:\\users\\angmi\\onedrive\\desktop\\minhsangdang\\backendfil\\back\\back\\beanscene\\beanscene\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E280610C-8594-4A30-B7E7-D2F7302D47A3}|BeanScene\\BeanScene.csproj|solutionrelative:beanscene\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E280610C-8594-4A30-B7E7-D2F7302D47A3}|BeanScene\\BeanScene.csproj|c:\\users\\angmi\\onedrive\\desktop\\minhsangdang\\backendfil\\back\\back\\beanscene\\beanscene\\model\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E280610C-8594-4A30-B7E7-D2F7302D47A3}|BeanScene\\BeanScene.csproj|solutionrelative:beanscene\\model\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E280610C-8594-4A30-B7E7-D2F7302D47A3}|BeanScene\\BeanScene.csproj|c:\\users\\angmi\\onedrive\\desktop\\minhsangdang\\backendfil\\back\\back\\beanscene\\beanscene\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E280610C-8594-4A30-B7E7-D2F7302D47A3}|BeanScene\\BeanScene.csproj|solutionrelative:beanscene\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E280610C-8594-4A30-B7E7-D2F7302D47A3}|BeanScene\\BeanScene.csproj|c:\\users\\angmi\\onedrive\\desktop\\minhsangdang\\backendfil\\back\\back\\beanscene\\beanscene\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E280610C-8594-4A30-B7E7-D2F7302D47A3}|BeanScene\\BeanScene.csproj|solutionrelative:beanscene\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E280610C-8594-4A30-B7E7-D2F7302D47A3}|BeanScene\\BeanScene.csproj|c:\\users\\angmi\\onedrive\\desktop\\minhsangdang\\backendfil\\back\\back\\beanscene\\beanscene\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E280610C-8594-4A30-B7E7-D2F7302D47A3}|BeanScene\\BeanScene.csproj|solutionrelative:beanscene\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E280610C-8594-4A30-B7E7-D2F7302D47A3}|BeanScene\\BeanScene.csproj|c:\\users\\angmi\\onedrive\\desktop\\minhsangdang\\backendfil\\back\\back\\beanscene\\beanscene\\controllers\\tablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E280610C-8594-4A30-B7E7-D2F7302D47A3}|BeanScene\\BeanScene.csproj|solutionrelative:beanscene\\controllers\\tablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E280610C-8594-4A30-B7E7-D2F7302D47A3}|BeanScene\\BeanScene.csproj|c:\\users\\angmi\\onedrive\\desktop\\minhsangdang\\backendfil\\back\\back\\beanscene\\beanscene\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E280610C-8594-4A30-B7E7-D2F7302D47A3}|BeanScene\\BeanScene.csproj|solutionrelative:beanscene\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E280610C-8594-4A30-B7E7-D2F7302D47A3}|BeanScene\\BeanScene.csproj|c:\\users\\angmi\\onedrive\\desktop\\minhsangdang\\backendfil\\back\\back\\beanscene\\beanscene\\model\\beanscenedatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E280610C-8594-4A30-B7E7-D2F7302D47A3}|BeanScene\\BeanScene.csproj|solutionrelative:beanscene\\model\\beanscenedatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E280610C-8594-4A30-B7E7-D2F7302D47A3}|BeanScene\\BeanScene.csproj|c:\\users\\angmi\\onedrive\\desktop\\minhsangdang\\backendfil\\back\\back\\beanscene\\beanscene\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E280610C-8594-4A30-B7E7-D2F7302D47A3}|BeanScene\\BeanScene.csproj|solutionrelative:beanscene\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E280610C-8594-4A30-B7E7-D2F7302D47A3}|BeanScene\\BeanScene.csproj|c:\\users\\angmi\\onedrive\\desktop\\minhsangdang\\backendfil\\back\\back\\beanscene\\beanscene\\model\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E280610C-8594-4A30-B7E7-D2F7302D47A3}|BeanScene\\BeanScene.csproj|solutionrelative:beanscene\\model\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E280610C-8594-4A30-B7E7-D2F7302D47A3}|BeanScene\\BeanScene.csproj|c:\\users\\angmi\\onedrive\\desktop\\minhsangdang\\backendfil\\back\\back\\beanscene\\beanscene\\model\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E280610C-8594-4A30-B7E7-D2F7302D47A3}|BeanScene\\BeanScene.csproj|solutionrelative:beanscene\\model\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E280610C-8594-4A30-B7E7-D2F7302D47A3}|BeanScene\\BeanScene.csproj|c:\\users\\angmi\\onedrive\\desktop\\minhsangdang\\backendfil\\back\\back\\beanscene\\beanscene\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E280610C-8594-4A30-B7E7-D2F7302D47A3}|BeanScene\\BeanScene.csproj|solutionrelative:beanscene\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E280610C-8594-4A30-B7E7-D2F7302D47A3}|BeanScene\\BeanScene.csproj|c:\\users\\angmi\\onedrive\\desktop\\minhsangdang\\backendfil\\back\\back\\beanscene\\beanscene\\security\\basicauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E280610C-8594-4A30-B7E7-D2F7302D47A3}|BeanScene\\BeanScene.csproj|solutionrelative:beanscene\\security\\basicauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E280610C-8594-4A30-B7E7-D2F7302D47A3}|BeanScene\\BeanScene.csproj|c:\\users\\angmi\\onedrive\\desktop\\minhsangdang\\backendfil\\back\\back\\beanscene\\beanscene\\model\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E280610C-8594-4A30-B7E7-D2F7302D47A3}|BeanScene\\BeanScene.csproj|solutionrelative:beanscene\\model\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E280610C-8594-4A30-B7E7-D2F7302D47A3}|BeanScene\\BeanScene.csproj|c:\\users\\angmi\\onedrive\\desktop\\minhsangdang\\backendfil\\back\\back\\beanscene\\beanscene\\beanscene.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E280610C-8594-4A30-B7E7-D2F7302D47A3}|BeanScene\\BeanScene.csproj|solutionrelative:beanscene\\beanscene.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\angmi\\OneDrive\\Desktop\\MinhSangDang\\backEndFil\\back\\back\\BeanScene\\BeanScene\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "BeanScene\\Controllers\\MenuController.cs",
+              "ToolTip": "C:\\Users\\angmi\\OneDrive\\Desktop\\MinhSangDang\\backEndFil\\back\\back\\BeanScene\\BeanScene\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "BeanScene\\Controllers\\MenuController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAkwEwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:13:57.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TableController.cs",
+              "DocumentMoniker": "C:\\Users\\angmi\\OneDrive\\Desktop\\MinhSangDang\\backEndFil\\back\\back\\BeanScene\\BeanScene\\Controllers\\TableController.cs",
+              "RelativeDocumentMoniker": "BeanScene\\Controllers\\TableController.cs",
+              "ToolTip": "C:\\Users\\angmi\\OneDrive\\Desktop\\MinhSangDang\\backEndFil\\back\\back\\BeanScene\\BeanScene\\Controllers\\TableController.cs",
+              "RelativeToolTip": "BeanScene\\Controllers\\TableController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:33:17.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\angmi\\OneDrive\\Desktop\\MinhSangDang\\backEndFil\\back\\back\\BeanScene\\BeanScene\\appsettings.json",
+              "RelativeDocumentMoniker": "BeanScene\\appsettings.json",
+              "ToolTip": "C:\\Users\\angmi\\OneDrive\\Desktop\\MinhSangDang\\backEndFil\\back\\back\\BeanScene\\BeanScene\\appsettings.json",
+              "RelativeToolTip": "BeanScene\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-23T07:23:07.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\angmi\\OneDrive\\Desktop\\MinhSangDang\\backEndFil\\back\\back\\BeanScene\\BeanScene\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "BeanScene\\Model\\Category.cs",
+              "ToolTip": "C:\\Users\\angmi\\OneDrive\\Desktop\\MinhSangDang\\backEndFil\\back\\back\\BeanScene\\BeanScene\\Model\\Category.cs",
+              "RelativeToolTip": "BeanScene\\Model\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:49:21.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\angmi\\OneDrive\\Desktop\\MinhSangDang\\backEndFil\\back\\back\\BeanScene\\BeanScene\\Model\\Menu.cs",
+              "RelativeDocumentMoniker": "BeanScene\\Model\\Menu.cs",
+              "ToolTip": "C:\\Users\\angmi\\OneDrive\\Desktop\\MinhSangDang\\backEndFil\\back\\back\\BeanScene\\BeanScene\\Model\\Menu.cs",
+              "RelativeToolTip": "BeanScene\\Model\\Menu.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:28:28.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\angmi\\OneDrive\\Desktop\\MinhSangDang\\backEndFil\\back\\back\\BeanScene\\BeanScene\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "BeanScene\\Model\\Order.cs",
+              "ToolTip": "C:\\Users\\angmi\\OneDrive\\Desktop\\MinhSangDang\\backEndFil\\back\\back\\BeanScene\\BeanScene\\Model\\Order.cs",
+              "RelativeToolTip": "BeanScene\\Model\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T03:46:12.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\angmi\\OneDrive\\Desktop\\MinhSangDang\\backEndFil\\back\\back\\BeanScene\\BeanScene\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "BeanScene\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\angmi\\OneDrive\\Desktop\\MinhSangDang\\backEndFil\\back\\back\\BeanScene\\BeanScene\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "BeanScene\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAiwE8AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T12:52:16.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StaffController.cs",
+              "DocumentMoniker": "C:\\Users\\angmi\\OneDrive\\Desktop\\MinhSangDang\\backEndFil\\back\\back\\BeanScene\\BeanScene\\Controllers\\StaffController.cs",
+              "RelativeDocumentMoniker": "BeanScene\\Controllers\\StaffController.cs",
+              "ToolTip": "C:\\Users\\angmi\\OneDrive\\Desktop\\MinhSangDang\\backEndFil\\back\\back\\BeanScene\\BeanScene\\Controllers\\StaffController.cs",
+              "RelativeToolTip": "BeanScene\\Controllers\\StaffController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:40:27.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\angmi\\OneDrive\\Desktop\\MinhSangDang\\backEndFil\\back\\back\\BeanScene\\BeanScene\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "BeanScene\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\angmi\\OneDrive\\Desktop\\MinhSangDang\\backEndFil\\back\\back\\BeanScene\\BeanScene\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "BeanScene\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA5wAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T03:51:07.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BeanSceneDatabaseSettings.cs",
+              "DocumentMoniker": "C:\\Users\\angmi\\OneDrive\\Desktop\\MinhSangDang\\backEndFil\\back\\back\\BeanScene\\BeanScene\\Model\\BeanSceneDatabaseSettings.cs",
+              "RelativeDocumentMoniker": "BeanScene\\Model\\BeanSceneDatabaseSettings.cs",
+              "ToolTip": "C:\\Users\\angmi\\OneDrive\\Desktop\\MinhSangDang\\backEndFil\\back\\back\\BeanScene\\BeanScene\\Model\\BeanSceneDatabaseSettings.cs",
+              "RelativeToolTip": "BeanScene\\Model\\BeanSceneDatabaseSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:27:31.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\angmi\\OneDrive\\Desktop\\MinhSangDang\\backEndFil\\back\\back\\BeanScene\\BeanScene\\Model\\OrderItem.cs",
+              "RelativeDocumentMoniker": "BeanScene\\Model\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\angmi\\OneDrive\\Desktop\\MinhSangDang\\backEndFil\\back\\back\\BeanScene\\BeanScene\\Model\\OrderItem.cs",
+              "RelativeToolTip": "BeanScene\\Model\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T03:48:51.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\angmi\\OneDrive\\Desktop\\MinhSangDang\\backEndFil\\back\\back\\BeanScene\\BeanScene\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "BeanScene\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\angmi\\OneDrive\\Desktop\\MinhSangDang\\backEndFil\\back\\back\\BeanScene\\BeanScene\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "BeanScene\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:23:31.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\angmi\\OneDrive\\Desktop\\MinhSangDang\\backEndFil\\back\\back\\BeanScene\\BeanScene\\Model\\Table.cs",
+              "RelativeDocumentMoniker": "BeanScene\\Model\\Table.cs",
+              "ToolTip": "C:\\Users\\angmi\\OneDrive\\Desktop\\MinhSangDang\\backEndFil\\back\\back\\BeanScene\\BeanScene\\Model\\Table.cs",
+              "RelativeToolTip": "BeanScene\\Model\\Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:29:20.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\angmi\\OneDrive\\Desktop\\MinhSangDang\\backEndFil\\back\\back\\BeanScene\\BeanScene\\Program.cs",
+              "RelativeDocumentMoniker": "BeanScene\\Program.cs",
+              "ToolTip": "C:\\Users\\angmi\\OneDrive\\Desktop\\MinhSangDang\\backEndFil\\back\\back\\BeanScene\\BeanScene\\Program.cs",
+              "RelativeToolTip": "BeanScene\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:12:59.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\angmi\\OneDrive\\Desktop\\MinhSangDang\\backEndFil\\back\\back\\BeanScene\\BeanScene\\Model\\Staff.cs",
+              "RelativeDocumentMoniker": "BeanScene\\Model\\Staff.cs",
+              "ToolTip": "C:\\Users\\angmi\\OneDrive\\Desktop\\MinhSangDang\\backEndFil\\back\\back\\BeanScene\\BeanScene\\Model\\Staff.cs",
+              "RelativeToolTip": "BeanScene\\Model\\Staff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:39:08.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BeanScene",
+              "DocumentMoniker": "C:\\Users\\angmi\\OneDrive\\Desktop\\MinhSangDang\\backEndFil\\back\\back\\BeanScene\\BeanScene\\BeanScene.csproj",
+              "RelativeDocumentMoniker": "BeanScene\\BeanScene.csproj",
+              "ToolTip": "C:\\Users\\angmi\\OneDrive\\Desktop\\MinhSangDang\\backEndFil\\back\\back\\BeanScene\\BeanScene\\BeanScene.csproj",
+              "RelativeToolTip": "BeanScene\\BeanScene.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-25T13:24:29.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BasicAuthenticationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\angmi\\OneDrive\\Desktop\\MinhSangDang\\backEndFil\\back\\back\\BeanScene\\BeanScene\\Security\\BasicAuthenticationHandler.cs",
+              "RelativeDocumentMoniker": "BeanScene\\Security\\BasicAuthenticationHandler.cs",
+              "ToolTip": "C:\\Users\\angmi\\OneDrive\\Desktop\\MinhSangDang\\backEndFil\\back\\back\\BeanScene\\BeanScene\\Security\\BasicAuthenticationHandler.cs",
+              "RelativeToolTip": "BeanScene\\Security\\BasicAuthenticationHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:00:23.763Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

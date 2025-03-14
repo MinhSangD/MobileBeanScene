@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "6725c5b55821b084b48938c0"
+  },
+  "email": "angminhsa@ngmg.com",
+  "firstname": "MinhSang",
+  "lastname": "Dang",
+  "password": "2002004",
+  "role": "Staff",
+  "username": "sabf"
+},
+{
+  "_id": {
+    "$oid": "6725cb3c5821b084b48938c1"
+  },
+  "email": "test",
+  "firstname": "test",
+  "lastname": "testt",
+  "password": "test",
+  "role": "manager",
+  "username": "test"
+},
+{
+  "_id": {
+    "$oid": "6725cc385821b084b48938c2"
+  },
+  "email": "sa",
+  "firstname": "s",
+  "lastname": "s",
+  "password": "re",
+  "role": "Staff",
+  "username": "er"
+},
+{
+  "_id": {
+    "$oid": "6725d87e5821b084b48938c3"
+  },
+  "email": "20",
+  "firstname": "asss",
+  "lastname": "sss",
+  "password": "sa",
+  "role": "Manager",
+  "username": "sa"
+},
+{
+  "_id": {
+    "$oid": "6725d8a45821b084b48938c4"
+  },
+  "email": "we",
+  "firstname": "ewe",
+  "lastname": "ewew",
+  "password": "ew",
+  "role": "staff",
+  "username": "we"
+},
+{
+  "_id": {
+    "$oid": "6725d9d75821b084b48938c5"
+  },
+  "email": "222",
+  "firstname": "sa",
+  "lastname": "sang",
+  "password": "222",
+  "role": "Manager",
+  "username": "222"
+},
+{
+  "_id": {
+    "$oid": "6745c8966424c2e3e25151f1"
+  },
+  "email": "sang",
+  "firstname": "sang",
+  "lastname": "Dang",
+  "password": "sang",
+  "role": "Manager",
+  "username": "sang"
+},
+{
+  "_id": {
+    "$oid": "6745ccbefc372f6da675493a"
+  },
+  "email": "sa",
+  "firstname": "sang",
+  "lastname": "sang",
+  "password": "sa",
+  "role": "Manager",
+  "username": "sa"
+}]

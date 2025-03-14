@@ -1,0 +1,210 @@
+[{
+  "_id": {
+    "$oid": "6735edadd11f657a022ec83f"
+  },
+  "code": "M1",
+  "section": "Main"
+},
+{
+  "_id": {
+    "$oid": "6735edadd11f657a022ec840"
+  },
+  "code": "M2",
+  "section": "Main"
+},
+{
+  "_id": {
+    "$oid": "6735edadd11f657a022ec841"
+  },
+  "code": "M3",
+  "section": "Main"
+},
+{
+  "_id": {
+    "$oid": "6735edadd11f657a022ec842"
+  },
+  "code": "M4",
+  "section": "Main"
+},
+{
+  "_id": {
+    "$oid": "6735edadd11f657a022ec843"
+  },
+  "code": "M5",
+  "section": "Main"
+},
+{
+  "_id": {
+    "$oid": "6735edadd11f657a022ec844"
+  },
+  "code": "M6",
+  "section": "Main"
+},
+{
+  "_id": {
+    "$oid": "6735edadd11f657a022ec845"
+  },
+  "code": "M7",
+  "section": "Main"
+},
+{
+  "_id": {
+    "$oid": "6735edadd11f657a022ec846"
+  },
+  "code": "M8",
+  "section": "Main"
+},
+{
+  "_id": {
+    "$oid": "6735edadd11f657a022ec847"
+  },
+  "code": "M9",
+  "section": "Main"
+},
+{
+  "_id": {
+    "$oid": "6735edadd11f657a022ec848"
+  },
+  "code": "M10",
+  "section": "Main"
+},
+{
+  "_id": {
+    "$oid": "6735ee1bd11f657a022ec849"
+  },
+  "code": "O1",
+  "section": "Outside"
+},
+{
+  "_id": {
+    "$oid": "6735ee1bd11f657a022ec84a"
+  },
+  "code": "O2",
+  "section": "Outside"
+},
+{
+  "_id": {
+    "$oid": "6735ee1bd11f657a022ec84b"
+  },
+  "code": "O3",
+  "section": "Outside"
+},
+{
+  "_id": {
+    "$oid": "6735ee1bd11f657a022ec84c"
+  },
+  "code": "O4",
+  "section": "Outside"
+},
+{
+  "_id": {
+    "$oid": "6735ee1bd11f657a022ec84d"
+  },
+  "code": "O5",
+  "section": "Outside"
+},
+{
+  "_id": {
+    "$oid": "6735ee1bd11f657a022ec84e"
+  },
+  "code": "O6",
+  "section": "Outside"
+},
+{
+  "_id": {
+    "$oid": "6735ee1bd11f657a022ec84f"
+  },
+  "code": "O7",
+  "section": "Outside"
+},
+{
+  "_id": {
+    "$oid": "6735ee1bd11f657a022ec850"
+  },
+  "code": "O8",
+  "section": "Outside"
+},
+{
+  "_id": {
+    "$oid": "6735ee1bd11f657a022ec851"
+  },
+  "code": "O9",
+  "section": "Outside"
+},
+{
+  "_id": {
+    "$oid": "6735ee1bd11f657a022ec852"
+  },
+  "code": "O10",
+  "section": "Outside"
+},
+{
+  "_id": {
+    "$oid": "6735ee1cd11f657a022ec853"
+  },
+  "code": "B1",
+  "section": "Balcony"
+},
+{
+  "_id": {
+    "$oid": "6735ee1cd11f657a022ec854"
+  },
+  "code": "B2",
+  "section": "Balcony"
+},
+{
+  "_id": {
+    "$oid": "6735ee1cd11f657a022ec855"
+  },
+  "code": "B3",
+  "section": "Balcony"
+},
+{
+  "_id": {
+    "$oid": "6735ee1cd11f657a022ec856"
+  },
+  "code": "B4",
+  "section": "Balcony"
+},
+{
+  "_id": {
+    "$oid": "6735ee1cd11f657a022ec857"
+  },
+  "code": "B5",
+  "section": "Balcony"
+},
+{
+  "_id": {
+    "$oid": "6735ee1cd11f657a022ec858"
+  },
+  "code": "B6",
+  "section": "Balcony"
+},
+{
+  "_id": {
+    "$oid": "6735ee1cd11f657a022ec859"
+  },
+  "code": "B7",
+  "section": "Balcony"
+},
+{
+  "_id": {
+    "$oid": "6735ee1cd11f657a022ec85a"
+  },
+  "code": "B8",
+  "section": "Balcony"
+},
+{
+  "_id": {
+    "$oid": "6735ee1cd11f657a022ec85b"
+  },
+  "code": "B9",
+  "section": "Balcony"
+},
+{
+  "_id": {
+    "$oid": "6735ee1cd11f657a022ec85c"
+  },
+  "code": "B10",
+  "section": "Balcony"
+}]

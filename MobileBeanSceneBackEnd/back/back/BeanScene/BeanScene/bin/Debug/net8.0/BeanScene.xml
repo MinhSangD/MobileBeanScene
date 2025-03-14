@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BeanScene</name>
+    </assembly>
+    <members>
+        <member name="T:BeanScene.Controllers.CategoryController">
+            <summary>
+            Food category controller, how cool is that 
+            </summary>
+        </member>
+        <member name="T:BeanScene.Controllers.MenuController">
+            <summary>
+            Control All the yummy dishes here 
+            </summary>
+        </member>
+        <member name="T:BeanScene.Controllers.OrdersController">
+            <summary>
+            A simple controller for Orders
+            </summary>
+        </member>
+        <member name="T:BeanScene.Controllers.StaffController">
+            <summary>
+            Staff controller that would help you control staff data
+            </summary>
+        </member>
+        <member name="T:BeanScene.Controllers.TableController">
+            <summary>
+            Get your table controlled with all the HTTP requests
+            </summary>
+        </member>
+        <member name="T:BeanScene.Controllers.WeatherForecastController">
+            <summary>
+            We don't talk about weather forecast controller
+            </summary>
+        </member>
+    </members>
+</doc>

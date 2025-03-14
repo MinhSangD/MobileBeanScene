@@ -1,0 +1,79 @@
+C:\Users\dangm\source\repos\BeanScene\BeanScene\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\dangm\source\repos\BeanScene\BeanScene\bin\Debug\net8.0\appsettings.json
+C:\Users\dangm\source\repos\BeanScene\BeanScene\bin\Debug\net8.0\BeanScene.exe
+C:\Users\dangm\source\repos\BeanScene\BeanScene\bin\Debug\net8.0\BeanScene.deps.json
+C:\Users\dangm\source\repos\BeanScene\BeanScene\bin\Debug\net8.0\BeanScene.runtimeconfig.json
+C:\Users\dangm\source\repos\BeanScene\BeanScene\bin\Debug\net8.0\BeanScene.dll
+C:\Users\dangm\source\repos\BeanScene\BeanScene\bin\Debug\net8.0\BeanScene.pdb
+C:\Users\dangm\source\repos\BeanScene\BeanScene\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\dangm\source\repos\BeanScene\BeanScene\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dangm\source\repos\BeanScene\BeanScene\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dangm\source\repos\BeanScene\BeanScene\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dangm\source\repos\BeanScene\BeanScene\obj\Debug\net8.0\BeanScene.csproj.AssemblyReference.cache
+C:\Users\dangm\source\repos\BeanScene\BeanScene\obj\Debug\net8.0\BeanScene.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dangm\source\repos\BeanScene\BeanScene\obj\Debug\net8.0\BeanScene.AssemblyInfoInputs.cache
+C:\Users\dangm\source\repos\BeanScene\BeanScene\obj\Debug\net8.0\BeanScene.AssemblyInfo.cs
+C:\Users\dangm\source\repos\BeanScene\BeanScene\obj\Debug\net8.0\BeanScene.csproj.CoreCompileInputs.cache
+C:\Users\dangm\source\repos\BeanScene\BeanScene\obj\Debug\net8.0\BeanScene.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dangm\source\repos\BeanScene\BeanScene\obj\Debug\net8.0\BeanScene.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dangm\source\repos\BeanScene\BeanScene\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\dangm\source\repos\BeanScene\BeanScene\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\dangm\source\repos\BeanScene\BeanScene\obj\Debug\net8.0\staticwebassets\msbuild.BeanScene.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dangm\source\repos\BeanScene\BeanScene\obj\Debug\net8.0\staticwebassets\msbuild.build.BeanScene.props
+C:\Users\dangm\source\repos\BeanScene\BeanScene\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BeanScene.props
+C:\Users\dangm\source\repos\BeanScene\BeanScene\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BeanScene.props
+C:\Users\dangm\source\repos\BeanScene\BeanScene\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\dangm\source\repos\BeanScene\BeanScene\obj\Debug\net8.0\scopedcss\bundle\BeanScene.styles.css
+C:\Users\dangm\source\repos\BeanScene\BeanScene\obj\Debug\net8.0\BeanScene.csproj.Up2Date
+C:\Users\dangm\source\repos\BeanScene\BeanScene\obj\Debug\net8.0\BeanScene.dll
+C:\Users\dangm\source\repos\BeanScene\BeanScene\obj\Debug\net8.0\refint\BeanScene.dll
+C:\Users\dangm\source\repos\BeanScene\BeanScene\obj\Debug\net8.0\BeanScene.pdb
+C:\Users\dangm\source\repos\BeanScene\BeanScene\obj\Debug\net8.0\BeanScene.genruntimeconfig.cache
+C:\Users\dangm\source\repos\BeanScene\BeanScene\obj\Debug\net8.0\ref\BeanScene.dll
+C:\Users\dangm\source\repos\BeanScene\BeanScene\bin\Debug\net8.0\DnsClient.dll
+C:\Users\dangm\source\repos\BeanScene\BeanScene\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\dangm\source\repos\BeanScene\BeanScene\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\dangm\source\repos\BeanScene\BeanScene\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\dangm\source\repos\BeanScene\BeanScene\bin\Debug\net8.0\Snappier.dll
+C:\Users\dangm\source\repos\BeanScene\BeanScene\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\bin\Debug\net8.0\appsettings.json
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\bin\Debug\net8.0\BeanScene.exe
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\bin\Debug\net8.0\BeanScene.deps.json
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\bin\Debug\net8.0\BeanScene.runtimeconfig.json
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\bin\Debug\net8.0\BeanScene.dll
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\bin\Debug\net8.0\BeanScene.pdb
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\bin\Debug\net8.0\DnsClient.dll
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\bin\Debug\net8.0\Snappier.dll
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\obj\Debug\net8.0\BeanScene.csproj.AssemblyReference.cache
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\obj\Debug\net8.0\BeanScene.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\obj\Debug\net8.0\BeanScene.AssemblyInfoInputs.cache
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\obj\Debug\net8.0\BeanScene.AssemblyInfo.cs
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\obj\Debug\net8.0\BeanScene.csproj.CoreCompileInputs.cache
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\obj\Debug\net8.0\BeanScene.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\obj\Debug\net8.0\BeanScene.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\obj\Debug\net8.0\staticwebassets\msbuild.BeanScene.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\obj\Debug\net8.0\staticwebassets\msbuild.build.BeanScene.props
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BeanScene.props
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BeanScene.props
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\obj\Debug\net8.0\scopedcss\bundle\BeanScene.styles.css
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\obj\Debug\net8.0\BeanScene.csproj.Up2Date
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\obj\Debug\net8.0\BeanScene.dll
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\obj\Debug\net8.0\refint\BeanScene.dll
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\obj\Debug\net8.0\BeanScene.pdb
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\obj\Debug\net8.0\BeanScene.genruntimeconfig.cache
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\obj\Debug\net8.0\ref\BeanScene.dll
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\bin\Debug\net8.0\BeanScene.xml
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\obj\Debug\net8.0\BeanScene.xml
+C:\Users\dangm\OneDrive\Desktop\New folder\mobile\ass\back\BeanScene\BeanScene\bin\Debug\net8.0\BCrypt.Net-Next.dll
