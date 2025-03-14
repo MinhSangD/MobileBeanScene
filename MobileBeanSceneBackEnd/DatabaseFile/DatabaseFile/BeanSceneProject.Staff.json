@@ -2,9 +2,9 @@
   "_id": {
     "$oid": "6725c5b55821b084b48938c0"
   },
-  "email": "angminhsa@ngmg.com",
-  "firstname": "MinhSang",
-  "lastname": "Dang",
+  "email": "ahsa@ngmg.com",
+  "firstname": "Mng",
+  "lastname": "eeeew",
   "password": "2002004",
   "role": "Staff",
   "username": "sabf"
@@ -59,21 +59,10 @@
   },
   "email": "222",
   "firstname": "sa",
-  "lastname": "sang",
+  "lastname": "s",
   "password": "222",
   "role": "Manager",
   "username": "222"
-},
-{
-  "_id": {
-    "$oid": "6745c8966424c2e3e25151f1"
-  },
-  "email": "sang",
-  "firstname": "sang",
-  "lastname": "Dang",
-  "password": "sang",
-  "role": "Manager",
-  "username": "sang"
 },
 {
   "_id": {
